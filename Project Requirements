@@ -1,5 +1,5 @@
 
-The basic story of the application:
+The basic story of the application: Shoe E-Commerce Website 
 
 - A page displaying for the user what to select, the item can have a name, description, price and add to cart button
 - Selected add to Cart can display a page that shows the products selected, the size(if its a clothing item), item description, price and at the bottom can display similar items, “you may also like”, 
