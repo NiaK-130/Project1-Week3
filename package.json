@@ -1,0 +1,23 @@
+{
+  "name": "Project1-Week3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiaK-130/Project1-Week3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiaK-130/Project1-Week3/issues"
+  },
+  "homepage": "https://github.com/NiaK-130/Project1-Week3#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}

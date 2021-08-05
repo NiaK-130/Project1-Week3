@@ -1,0 +1,125 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Add to Cart - Books</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--font awesome cdn -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+    <link rel = "stylesheet" href="style.css">
+</head>
+<body>
+
+    <!--header-->
+
+    <header>
+        <div class = "container">
+            <!--navbar-->
+            <nav class = "navbar">
+                <a href = "index.html" class = "navbar-brand"> Chapters</a> 
+                <button type = "button" class = "navbar-toggler">
+                    <i class = "fas fa-bars"></i>
+                </button>
+                <div class = "navbar-collapse">
+                    <ul>
+                        <li><a href = "#">Home</a></li>
+                        <li><a href = "#">Contact</a></li>
+                    </ul>
+                </div>
+                <div class = "cart"
+                    <button type = "button" id = "cart-btn">
+                        <i class = "fas fa-shopping-cart"></i>
+                        <span id = "cart-count-info"></span>
+                    </button>
+
+                    <div class = "cart-container"
+                    <div class = "cart-list">
+                        <!--single item --
+                        <div class = "cart-item">
+                            <img src = "Images/best-selling-book1.jpg" alt = "product image">
+                            <div class = "cart-item-info">
+                                <h3 class = "cart-item-name">Best Seller!</h3>
+                                <span class = "cart-item-category">Best Selling</span>
+                                <span class = "cart-item-price">$10.00
+                                </span>
+                            </div> 
+                            <button type = "button" class = "cart-item-del-btn">
+                                <i class = "fas fa-times"></i>
+                            </button>
+                        </div>
+                        <!-end of single item-->
+
+                    </div>
+                    <div class = "cart-total">
+                        <h3>Total: $</h3>
+                        <span id = "cart-total-value"></span>
+                    </div>
+                </div>
+            </div>
+    </nav>
+    <!--end of navbar-->
+
+    <!--banner-->
+    <div class = "banner">
+        <div class = "banner-content">
+            <h1>The collection you will love!</h1>
+            <p class = "text">"The more that you read, the more things you will know. The more you learn, the more places you will go!" - Dr. Seuss</p>
+        <div class = "btns">
+            <button type = "button" class = "btn">Know More </button>
+            <button type = "button" class = "btn">More Info</button>
+    </div>
+</div>
+<div class = "banner-img">
+    <img src = "Images/Banner-img.jpg" alt = "books banner image">
+</div>
+</div>
+<!--end of banner-->
+</div>
+    </header>
+    <!--end of header-->
+
+    <!--products section-->
+    <section class  = "products">
+        <div class = "container">
+            <h2>Products</h2>
+        <div class = "product -list">
+            </div>
+            </div>
+    </section>
+    <!--end of products section-->
+    <!--footer-->
+    <footer>
+        <div class = "footer-banner">
+            <div class = "container">
+                <h2>Unlimited Book Collection</h2>
+                <p class = "text">
+                    “Good friends, good books, and a sleepy conscience: this is the ideal life.”
+                    ― Mark Twain</p>
+                    <button type = "button" class = "btn">View More</button>
+            </div>
+        </div>
+        <div class = "container">
+            <div class = "social-icons">
+                <a href = '#'>
+                    <i class = "fab fa-facebook-f"></i>
+                    </a>
+                    <a href = '#'>
+                        <i class = "fab fa-instagram"></i>
+                        </a>
+            
+            </div>
+            
+        </div>
+    </footer>
+
+    <!--end of footer-->
+
+    <script src ="index.js"></script>
+
+   
+
+    
+</body>
+</html>

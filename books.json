@@ -1,0 +1,228 @@
+
+    [
+    {   "id": "26",
+        "title" : "You are a Badass",
+        "author" : "Jen Sincero",
+        "genre" : "Self-Help",
+        "price" : "17.00",
+        "image": "https://www.runningpress.com/wp-content/uploads/2019/05/9780762447695-1.jpg?fit=428%2C675"   
+      },
+ 
+
+      {
+        "id":"27",
+        "title" : "The Happiness Advantage",
+        "author" : "Shawn Anchor",
+        "genre" : "Self-Help",
+        "price" : "27.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61e6e4MagBL.jpg"
+        
+      },
+
+   
+      {
+        "id":"28",
+        "title" : "The Gifts of Imperfection",
+        "author" : "Brene Brown",
+        "genre" : "Self-Help",
+        "price" : "16.95",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71aHmBv498L.jpg"
+        
+      },
+
+
+      {
+        "id":"29",
+        "title" : "Failing Forward",
+        "author" : "John C. Maxwell",
+        "genre" : "Self-Help",
+        "price" : "20.73",
+        "image": "https://imgprd19.mardel.com/d/1b/ac/d1bac042c7c84e420dc7aa093f31f3ec3816ff96/350Wx350H-1392844.jpg"
+        
+      },
+
+
+      {
+        "id":"30",
+        "title" : "Dorie's Cookies",
+        "author" : "Dorie Greenspan",
+        "genre" : "Cooking",
+        "price" : "37.50",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/A1rB9xPb8DL.jpg"
+        
+      },
+
+
+      {
+        "id":"31",
+        "title" : "The Silver Palate Cookbook",
+        "author" : "Julee Rosson & Sheila Lukins",
+        "genre" : "Cooking",
+        "price" : "29.95",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/914EGG9+0lL.jpg"
+        
+      },
+
+
+      {
+        "id":"32",
+        "title" : "Dinner: Changing the Game",
+        "author" : "Melissa Clark",
+        "genre" : "Cooking",
+        "price" : "35.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/A1t2NwYrtEL.jpg"
+        
+      },
+
+
+
+      {
+        "id":"33",
+        "title" : "Vegetable Kingdom: The Abundant World of Vegan Recipes",
+        "author" : "Bryant Terry",
+        "genre" : "Cooking",
+        "price" : "30.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91MoWYbn7XL.jpg"
+        
+      },
+
+
+      {
+        "id":"34",
+        "title" : "Genghis Khan and the Making of the Modern World",
+        "author" : "Jack Weatherford",
+        "genre" : "History",
+        "price" : "9.43",
+        "image": "https://pictures.abebooks.com/isbn/9780609809648-us.jpg"
+        
+      },
+
+
+
+      {
+        "id":"35",
+        "title" : "The History of the Ancient World",
+        "author" : "Susan Wise Bauer",
+        "genre" : "History",
+        "price" : "22.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71tp0KNWHLL.jpg"
+        
+      },
+
+
+
+
+      {
+        "id":"36",
+        "title" : "Democracy: A Life",
+        "author" : "Paul Cartledge",
+        "genre" : "History",
+        "price" : "17.38",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/612FVFpuwaL.jpg"
+        
+      },
+
+
+
+
+
+      {
+        "id":"37",
+        "title" : "Churchill: Walking with Destiny",
+        "author" : "Andrew Roberts",
+        "genre" : "History",
+        "price" : "24.00",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81XnsSOnkDL.jpg"
+        
+      },
+
+
+
+
+      {
+        "id":"38",
+        "title" : "And Then There Were None",
+        "author" : "Agatha Christie",
+        "genre" : "Mystery",
+        "price" : "7.99",
+        "image": "https://target.scene7.com/is/image/Target/GUEST_0e3e81f5-341a-4b49-8b5b-33bc4816276a?wid=488&hei=488&fmt=pjpeg"
+        
+      },
+
+
+      {
+        "id":"39",
+        "title" : "The Big Sleep",
+        "author" : "Raymond Chandler",
+        "genre" : "Mystery",
+        "price" : "13.89",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61UqiAmPLsL.jpg"
+        
+      },
+
+
+      {
+        "id":"40",
+        "title" : "We Are All the Same in the Dark",
+        "author" : "Julia Heaberlin",
+        "genre" : "Mystery",
+        "price" : "",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91Lgb-WLzAL.jpg"
+        
+      },
+
+
+      {
+        "id":"41",
+        "title" : "The Rocky Road to Ruin: An Ice Cream Shop Mystery",
+        "author" : "Meri Allen",
+        "genre" : "Mystery",
+        "price" : "7.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51IzAZlXx8L._SX309_BO1,204,203,200_.jpg"
+        
+      },
+
+
+      {
+        "id":"42",
+        "title" : "Turn Right at Machu Picchu: Rediscovering the Lost City One Step at a Time",
+        "author" : "Mark Adams",
+        "genre" : "Travel",
+        "price" : "11.78",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91jSL0X4gjL.jpg"
+        
+      },
+
+      {
+        "id":"43",
+        "title" : "Travel the World on 50 a day",
+        "author" : "Matt Kepnes",
+        "genre" : "Travel",
+        "price" : "12.49",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81U93yUsdaL.jpg"
+        
+      },
+
+      {
+        "id":"44",
+        "title" : "Cross Country",
+        "author" : "Robert Sullivan",
+        "genre" : "Travel",
+        "price" : "13.99",
+        "image": "https://media.bloomsbury.com/rep/bj/9781582345277.jpg"
+        
+      },
+
+      {
+        "id":"45",
+        "title" : "Honouring High Places: The Mountain Life of Junko Tabei",
+        "author" : "Junko Tabei",
+        "genre" : "Travel",
+        "price" : "26.45",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71IlKcfHwXL.jpg"
+        
+      }
+
+]
+
+
