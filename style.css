@@ -374,12 +374,17 @@ header .container{
     font-size: 1.3rem;
     color: var(--baltic-sea);
 }
+
+.product-author{
+    font-size: 1.1rem;
+    color: var(--baltic-sea);
+}
 .product-category{
     margin:  0.8rem 0;
     display: inline-block;
     font-weight: 500;
     background: var(--fire-bush);
-    color: #fff;
+    color: rgb(255, 255, 255);
     padding: 0.05rem 1.5rem;
     border-radius: 5px;
     -webkit-border-radius: 5px;
